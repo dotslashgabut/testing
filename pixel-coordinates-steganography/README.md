@@ -1,7 +1,8 @@
 # Pixel Coordinates Steganography
 
-Testing...
-Steganography technique using pixel color coordinate on PNG files.
+Testing... 
+
+Steganography technique using pixel color coordinates in PNG files.
 
 **Tools:**
 - https://github.com/dotslashgabut/PNG-Pixel-Replacer-with-ASCII-Text-Input
